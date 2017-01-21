@@ -3,11 +3,12 @@ title: Vox of Victor
 description: Welcome to Victor's Domain
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: ''
-google_analytics: 'UA-90713500-1'
+google_analytics: UA-90713500-1
 # disqus_shortname: 'your-disqus-name'
+rss: false
 
 author:
-  name: 'Victor Ng'
+  name: Victor Ng
   email: victorng8@gmail.com
   twitter_username:
   facebook_username:
