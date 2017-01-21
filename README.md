@@ -8,7 +8,7 @@ Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://g
 ### Features
 
 * Clean layout
-* Resposive layout
+* Responsive layout
 * Pagination
 * Syntax highlighting
 * Social links
@@ -28,18 +28,3 @@ Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://g
 4. Start Jekyll server: `bundle exec jekyll serve --watch`
 
 Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
-
----
-
-### Demo and Download
-
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
-
-![jekyll-uno - free Jekyll theme](/screenshot.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
