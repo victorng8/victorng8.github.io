@@ -28,3 +28,11 @@ Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://g
 4. Start Jekyll server: `bundle exec jekyll serve --watch`
 
 Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
+
+To deploy using the script on build branch:
+
+git checkout build
+git add .
+git commit -m "remove bower"
+git push
+sh bin/deploy
